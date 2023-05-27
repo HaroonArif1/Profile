@@ -51,9 +51,9 @@ A Technical Consultant in Value Creed LLP’s Commodity Trading and Risk Managem
 
 
 ## Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24"> :
-- Practicing Coding Skills in <a href="https://www.hackerrank.com/iamshubhamg">HackerRank</a>📹✍🏾
-- Personal Website <a href="https://iamshubhamg.github.io">Shubham Giri</a> 🏓
+- Practicing Coding Skills in <a href="https://www.hackerrank.com/haroonansari2332?hr_r=1">HackerRank</a>📹✍🏾
+- Practicing Security Skills in <a href="https://tryhackme.com/p/harif">TryHackme</a>📹✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/haroonarf/">LinkedIn</a> 💼
-- My Social Life <a href="https://www.instagram.com/shuubhaammm">Instagram</a> 💞
+- My Website <a href="Haroonstudio.com">Haroonstudio</a> 💞
 
 <img src="https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="39px">  *<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! :)</b>*
