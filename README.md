@@ -18,12 +18,12 @@ A Technical Consultant in Value Creed LLP’s Commodity Trading and Risk Managem
 ### Pleased to meet you <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
 
 - 🔭 I’m currently working on <b>.NET Framework</b>
-- 🌱 I’m currently learning <b>C#</b>
+- 🌱 I’m currently learning <b>Snort</b>
 - 👯 I’m looking to collaborate on <b>Projects on ETRM/CTRM </b>
-- 🤔 I’m looking for help with <b>ETRM Business</b>
-- 💬 Ask me about <b>Anything</b>
+- ⏳ Exploring Google Cloud & Microsoft Azure 
+- 💬 Ask me about <b>Security</b>
 - 😄 Pronouns:<b>He/him</b>
-- ⚡ Fun fact: <b>I ❤️ 😻s</b>
+- ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
 
 ## Languages and Tools : <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
 <code><img height="30" src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg"></code>
