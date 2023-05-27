@@ -12,7 +12,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 A Technical Consultant in Value Creed LLP’s Commodity Trading and Risk Management practice. I started working on ETRM and handling various clients' problems and tasks, and bugs during my training and working for Value Creed Worked on user-friendly and optimized solutions in the Allegro application to automate and improve business processes.  At Value Creed, I have been working on the design, development, and implementation of the Allegro/ Horizon product which helps to automate the business processes, manage the risk to the market and make complex trading decisions. I worked as a technical expert to develop customizations in CTRM applications. Having a deep understanding of the Energy trade life cycle and carrying a profound knowledge of Business Requirement gathering, Solution Designing, GAP Analysis, Support, and Testing. ​🎀
 
-[![Linkedin Badge](https://img.shields.io/badge/-iamshubhamg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamshubhamg/)](https://www.linkedin.com/in/iamshubhamg/)  [![MAIL Badge](https://img.shields.io/badge/-shubhamgiri2000office@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhamgiri2000office@gmail.com)](mailto:shubhamgiri2000office@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-iamshubhamg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haroonarf/)](https://www.linkedin.com/in/haroonarf/)  [![MAIL Badge](https://img.shields.io/badge/-Haroonansari2332@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Haroonansari2332@gmail.com)](mailto:shubhamgiri2000office@gmail.com)
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=iamshubhamg&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
 
 ### Pleased to meet you <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
@@ -53,7 +53,7 @@ A Technical Consultant in Value Creed LLP’s Commodity Trading and Risk Managem
 ## Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24"> :
 - Practicing Coding Skills in <a href="https://www.hackerrank.com/iamshubhamg">HackerRank</a>📹✍🏾
 - Personal Website <a href="https://iamshubhamg.github.io">Shubham Giri</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/iamshubhamg/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/haroonarf/">LinkedIn</a> 💼
 - My Social Life <a href="https://www.instagram.com/shuubhaammm">Instagram</a> 💞
 
 <img src="https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="39px">  *<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! :)</b>*
