@@ -1,30 +1,35 @@
-<a href="https://dev.to/iamshubhamg">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shubham Giri's DEV Profile" height="40" width="40">
-</a><table><tr>  <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/iamshubhamg/count.svg" alt="vistor count" height="20"></td>
+<a href="https://dev.to/haroonarif1">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Haroon Arif's DEV Profile" height="40" width="40">
+</a>
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/haroonarif1/count.svg" alt="visitor count" height="20"></td>
   </tr>
 </table>
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/iamshubhamg/)  [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/haroonarif1/)  
+[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 
 ### Hi I'm Haroon <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="22">
 <img align='right' src="https://github.com/HaroonArif1/HaroonArif1/assets/99000767/1861c0be-7dd1-466d-8bd6-1fef65107900" width="230">
-A Technical Consultant in Value Creed LLP’s Commodity Trading and Risk Management practice. I started working on ETRM and handling various clients' problems and tasks, and bugs during my training and working for Value Creed Worked on user-friendly and optimized solutions in the Allegro application to automate and improve 
-business processes.  At Value Creed, I have been working on the design, development, and implementation of the Allegro/ Horizon product which helps to automate the business processes, manage the risk to the market and make complex trading decisions. I worked as a technical expert to develop customizations in CTRM applications. Having a deep understanding of the Energy trade life cycle and carrying a profound knowledge of Business Requirement gathering, Solution Designing, GAP Analysis, Support, and Testing. ​🎀
+A Technical Consultant with extensive experience in cybersecurity and cloud management. I have worked on various clients' problems and tasks, developing user-friendly and optimized solutions. At Value Creed, I worked on the design, development, and implementation of the Allegro/Horizon product to automate business processes, manage market risk, and make complex trading decisions. I possess a deep understanding of the energy trade life cycle and have extensive knowledge of business requirement gathering, solution designing, GAP analysis, support, and testing.
 
-[![Linkedin Badge](https://img.shields.io/badge/-iamshubhamg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haroonarf/)](https://www.linkedin.com/in/haroonarf/)  [![MAIL Badge](https://img.shields.io/badge/-Haroonansari2332@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Haroonansari2332@gmail.com)](mailto:shubhamgiri2000office@gmail.com)
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=iamshubhamg&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
+[![Linkedin Badge](https://img.shields.io/badge/-haroonarif1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haroonarf/)](https://www.linkedin.com/in/haroonarf/)  
+[![MAIL Badge](https://img.shields.io/badge/-Haroonansari2332@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Haroonansari2332@gmail.com)](mailto:Haroonansari2332@gmail.com)
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=haroonarif1&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
 
 ### Pleased to meet you <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
 
 - 🔭 I’m currently working on <b>.NET Framework</b>
 - 🌱 I’m currently learning <b>Snort</b>
-- 👯 I’m looking to collaborate on <b>Projects on ETRM/CTRM </b>
+- 👯 I’m looking to collaborate on <b>Projects in cybersecurity and cloud management</b>
 - ⏳ Exploring Google Cloud & Microsoft Azure 
 - 💬 Ask me about <b>Security</b>
-- 😄 Pronouns:<b>He/him</b>
-- ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
+- 😄 Pronouns: <b>He/him</b>
+- ⚡ Fun fact: I love attending meetups for learning and conferences for networking
 
 ## Languages and Tools : <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
 <code><img height="30" src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg"></code>
@@ -45,16 +50,3 @@ business processes.  At Value Creed, I have been working on the design, developm
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
 <code><img height="30" src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/5f2ffc928c1d2.png"></code>
 <code><img height="30" src="https://www.qwiklabs.com/qwiklabs_logo_900x887.png"></code>
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
-
-![Haroon's Github Stats](https://github-readme-stats.vercel.app/api?username=iamshubhamg&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhamg&theme=radical)](https://github.com/iamshubhamg/github-readme-stats)
-
-
-## Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24"> :
-- Practicing Coding Skills in <a href="https://www.hackerrank.com/haroonansari2332?hr_r=1">HackerRank</a>📹✍🏾
-- Practicing Security Skills in <a href="https://tryhackme.com/p/harif">TryHackme</a>📹✍🏾
-- Sharing updates on <a href="https://www.linkedin.com/in/haroonarf/">LinkedIn</a> 💼
-- My Website <a href="Haroonstudio.com">Haroonstudio</a> 💞
-
-<img src="https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="39px">  *<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! :)</b>*
