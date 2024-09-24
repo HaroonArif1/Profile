@@ -7,10 +7,9 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/haroonarif1/" title="LinkedIn Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/haroonarif1" title="HackerRank Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12345678/haroon-arif" title="Stack Overflow Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/haroonarif1/" title="Instagram Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/haroonarf/" title="LinkedIn Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/profile/haroonansari2332" title="HackerRank Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://scholar.google.com/citations?user=c6BL9bcAAAAJ&hl=en" title="Google Scholar Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/google_scholar.svg"> Google Scholar</a></code>
 </h5>
 
 <br>
@@ -29,7 +28,7 @@
   <br>
   💬 Ask me anything about security, cloud technologies, or coding <a href="https://github.com/HaroonArif1/HaroonArif1/issues" title="Issues">Here</a>.
   <br>
-  📫 How to reach me: <a href="mailto:haroonarif1@example.com">haroonarif1@example.com</a>
+  📫 How to reach me: <a href="mailto:Haroonansari2332@gmail.com">Haroonansari2332@gmail.com</a>
 </p>
 
 <hr>
@@ -78,3 +77,21 @@
 </p>
 
 <hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
+<br>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/HaroonArif1/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HaroonArif1&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/HaroonArif1/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HaroonArif1&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/HaroonArif1/NetworkSecurity" title="Network Security"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HaroonArif1&repo=NetworkSecurity&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/HaroonArif1/CyberThreatIntelligence" title="Cyber Threat Intelligence"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HaroonArif1&repo=CyberThreatIntelligence&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<br/><br/><br/><b
