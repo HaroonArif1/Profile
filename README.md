@@ -10,7 +10,7 @@
   <code><a href="https://www.linkedin.com/in/haroonarif1/" title="LinkedIn Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/HaroonArif1" title="HackerRank Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/haroon-arif" title="Stack Overflow Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/haroon_arif/" title="Instagram Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/haroon_arif/" title="Instagram Profile"><img width="22" src="postgresql.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
