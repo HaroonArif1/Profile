@@ -7,10 +7,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/haroonarif1/" title="LinkedIn Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/haroonarif1" title="HackerRank Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12345678/haroon-arif" title="Stack Overflow Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/haroonarif1/" title="Instagram Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/haroonarif1/" title="LinkedIn Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/haroonarif1" title="HackerRank Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12345678/haroon-arif" title="Stack Overflow Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/haroonarif1/" title="Instagram Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/instagram.svg"> Instagram</a></code>
 </h5>
 
 <br>
@@ -39,15 +39,15 @@
 <br>
 
 <p align="center">
-  <code><img title="Python" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/python-original.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/cpp.svg"></code>
-  <code><img title="JavaScript" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/javascript.svg"></code>
-  <code><img title="AWS" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/aws.svg"></code>
-  <code><img title="Docker" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/docker.svg"></code>
-  <code><img title="Linux" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/linux.svg"></code>
-  <code><img title="Splunk" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/splunk.svg"></code>
-  <code><img title="Microsoft Azure" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/azure.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/main/images/git-original.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/python-original.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/cpp.svg"></code>
+  <code><img title="JavaScript" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/javascript.svg"></code>
+  <code><img title="AWS" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/aws.svg"></code>
+  <code><img title="Docker" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/docker.svg"></code>
+  <code><img title="Linux" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/linux.svg"></code>
+  <code><img title="Splunk" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/splunk.svg"></code>
+  <code><img title="Microsoft Azure" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/azure.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/git-original.svg"></code>
 </p>
 
 <hr>
@@ -78,25 +78,3 @@
 </p>
 
 <hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-
-<br>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/HaroonArif1/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HaroonArif1&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/HaroonArif1/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HaroonArif1&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/HaroonArif1/NetworkSecurity" title="Network Security"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HaroonArif1&repo=NetworkSecurity&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/HaroonArif1/CyberThreatIntelligence" title="Cyber Threat Intelligence"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HaroonArif1&repo=CyberThreatIntelligence&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/HaroonArif1?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
