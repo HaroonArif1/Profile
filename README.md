@@ -35,7 +35,7 @@
 <h2 align="center">🔥 Languages, Frameworks, & Tools 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Python" height="25" src="main/python-original.svg"></code>
   <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
   <code><img title="Bash" height="25" src="images/bash.svg"></code>
   <code><img title="C" height="25" src="images/c.svg"></code>
