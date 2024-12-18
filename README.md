@@ -4,6 +4,12 @@
   </a>
 </h1>
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 # **Welcome to my GitHub Profile!**  
 
 I am a **Cybersecurity Specialist** and **Cybersecurity Researcher** with expertise in **cloud security**, **threat detection**, **AI in healthcare**, and **artificial intelligence**. I am passionate about building secure solutions, enhancing cloud environments, and leveraging AI to address complex cybersecurity and healthcare challenges.  
