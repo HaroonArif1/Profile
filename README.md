@@ -1,73 +1,61 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HaroonArif1.HaroonArif1">
+# 👋 Hi, I'm Haroon Arif  
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Haroon+Arif....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+**Welcome to my GitHub profile!**  
+I am a **Cybersecurity Specialist** and **Software Developer** with expertise in **cloud security, threat detection, and software development**.  
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/haroonarf/" title="LinkedIn Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/profile/haroonansari2332" title="HackerRank Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://scholar.google.com/citations?user=c6BL9bcAAAAJ&hl=en" title="Google Scholar Profile"><img width="22" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/google_scholar.svg"> Google Scholar</a></code>
-</h5>
+---
 
-<br>
+### 📄 About Me  
 
-<p align="center">
-  Hi, I'm Haroon Arif, a Cybersecurity Specialist & Software Developer from Pakistan.
-  <br>
-  <br>
-  🎓 I hold a Master's degree in Cybersecurity from the Illinois Institute of Technology.
-  <br>
-  🎓 I graduated from Preston University with a degree in Computer Science.
-  <br>
-  💻 I love working on cybersecurity, cloud solutions, and software development.
-  <br>
-  📚 Currently learning advanced cloud security practices and solutions with AWS and Azure.
-  <br>
-  💬 Ask me anything about security, cloud technologies, or coding <a href="https://github.com/HaroonArif1/HaroonArif1/issues" title="Issues">Here</a>.
-  <br>
-  📫 How to reach me: <a href="mailto:Haroonansari2332@gmail.com">Haroonansari2332@gmail.com</a>
-</p>
+🎓 **Education**:  
+- Master's in Cybersecurity – *Illinois Institute of Technology, USA*  
+- Bachelor's in Computer Science – *Preston University, Pakistan*  
 
-<hr>
+💻 **Passion & Expertise**:  
+- Cybersecurity, including vulnerability management, SOC operations, and incident response  
+- Cloud technologies like AWS, Azure, and DevOps tools  
+- Software development using Python, JavaScript, and C++  
+- Machine learning, data analysis, and AI applications in security  
 
-<h2 align="center">🔥 Languages, Frameworks, Tools & Abilities 🔥</h2>
+📚 **Currently Learning**:  
+- Advanced cloud security practices  
+- Vulnerability management solutions for consumer electronics  
 
-<br>
+📬 **Reach Me**:  
+- Email: [Haroonansari2332@gmail.com](mailto:Haroonansari2332@gmail.com)  
+- LinkedIn: [Haroon Arif](https://www.linkedin.com/in/haroonarf/)  
+- Google Scholar: [Publications](https://scholar.google.com/citations?user=c6BL9bcAAAAJ&hl=en)  
 
-<p align="center">
-  <code><img title="Python" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/python-original.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/cpp.svg"></code>
-  <code><img title="JavaScript" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/javascript.svg"></code>
-  <code><img title="AWS" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/aws.svg"></code>
-  <code><img title="Docker" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/docker.svg"></code>
-  <code><img title="Linux" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/linux.svg"></code>
-  <code><img title="Splunk" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/splunk.svg"></code>
-  <code><img title="Microsoft Azure" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/azure.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/HaroonArif1/HaroonArif1/blob/images/git-original.svg"></code>
-</p>
+---
 
-<hr>
+### 🔧 Languages, Tools, and Frameworks  
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=HaroonArif1&theme=react&border=61dafb&hide_border=true" alt="HaroonArif1" />
-    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HaroonArif1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
+| **Programming** | Python, C++, JavaScript, Bash, SQL |  
+| **Cloud & DevOps** | AWS, Azure, Docker, Ansible, Terraform |  
+| **Security Tools** | Splunk, Nessus, Wireshark, Snort |  
+| **Other Tools** | Git, PowerShell, Linux |  
 
-  <br><br><br><br><br><br><br><br><br>
+---
 
-  <div align=center>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroonArif1&hide=php,powershell&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-  </div>
+### 🏆 GitHub Statistics  
 
-  <br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=HaroonArif1&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HaroonArif1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" width="49%"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroonArif1&hide=php,powershell&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Top Languages" width="49%"/>
+</div>
+
+---
+
+### 📊 Activity Graph  
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaroonArif1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+</div>
 
-<hr>
+---
+
+Feel free to explore my repositories or reach out if you'd like to collaborate on cybersecurity, cloud, or software development projects!  
