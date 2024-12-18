@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Haroon Arif  
 
 **Welcome to my GitHub profile!**  
-I am a **Cybersecurity Specialist** and **Software Developer** with expertise in **cloud security, threat detection, and software development**.  
-
+I am a **Cybersecurity Specialist** and **Cybersecurity researcher** with expertise in **cloud security, threat detection, AI-Healthcare and Artificial intelligence**. I am passionate about building secure solutions, enhancing cloud environments, and solving complex cybersecurity challenges. 
 ---
 
 ### 📄 About Me  
