@@ -35,7 +35,6 @@ I am a **Cybersecurity Specialist** and **Cybersecurity Researcher** with expert
 - Vulnerability management solutions for consumer electronics  
 
 📬 **Reach Me**:  
-- Email: [Haroonansari2332@gmail.com](mailto:Haroonansari2332@gmail.com)  
 - LinkedIn: [Haroon Arif](https://www.linkedin.com/in/haroonarf/)  
 - Google Scholar: [Publications](https://scholar.google.com/citations?user=c6BL9bcAAAAJ&hl=en)  
 
