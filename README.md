@@ -15,7 +15,7 @@
 
 # **Welcome to my GitHub Profile!**  
 
-I am a **Cybersecurity Specialist** and **Cybersecurity Researcher** with expertise in **cloud security**, **threat detection**, **AI in healthcare**, and **artificial intelligence**. I am passionate about building secure solutions, enhancing cloud environments, and leveraging AI to address complex cybersecurity and healthcare challenges.  
+I am a **Cybersecurity Specialist** and **Cybersecurity Analyst** with expertise in **cloud security**, **threat detection**, **AI in healthcare**, and **artificial intelligence**. I am passionate about building secure solutions, enhancing cloud environments, and leveraging AI to address complex cybersecurity and healthcare challenges.  
 
 
 ### 📄 About Me  
