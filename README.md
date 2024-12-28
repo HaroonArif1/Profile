@@ -36,7 +36,6 @@ I am a **Cybersecurity Specialist** and **Cybersecurity Analyst** with expertise
 
 📬 **Reach Me**:  
 - LinkedIn: [Haroon Arif](https://www.linkedin.com/in/haroonarf/)  
-- Google Scholar: [Publications](https://scholar.google.com/citations?user=c6BL9bcAAAAJ&hl=en)  
 
 ---
 
